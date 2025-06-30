@@ -2,11 +2,13 @@
 
 
 🎓 Cybersecurity & MBA student @ OSU 
+
 🔐 Building secure apps, AI tools, and automation scripts 
+
 💼 Portfolio/Resume: [https://nick-graves.github.io/portfolio/](https://nick-graves.github.io/portfolio/)  
 
 ## 📈 GitHub Stats
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickgraves&show_icons=true&hide=prs&count_private=true)
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-graves&show_icons=true&hide=prs&count_private=true)
 
 ## 🔗 Projects
 - 🛡️ [Password Manager in C++](https://github.com/nick-graves/password-manager)
