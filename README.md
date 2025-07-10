@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nicholas Graves
+## Hi there, I'm Nicholas Graves
 
 
 🎓 Cybersecurity & MBA student @ OSU 
