@@ -5,7 +5,7 @@
 
 🔐 Building secure apps, AI tools, and automation scripts 
 
-💼 Portfolio/Resume: [https://nick-graves.github.io/portfolio/](https://nick-graves.github.io/portfolio/)  
+💼 Blog: [https://nick-graves.github.io/](https://nick-graves.github.io/)  
 
 
 
